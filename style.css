@@ -62,16 +62,6 @@ body {
   text-transform: capitalize;
 }
 
-.icon-container {
-  border-radius: 100%;
-  width: 100px;
-  height: 100px;
-  background: whitesmoke;
-}
-.icon-container img {
-  margin-bottom: 100px;
-}
-
 .card-bottom {
   line-height: 0.05;
 }
